@@ -1,0 +1,133 @@
+---
+title: "Duke Xarnigan Slide Template"
+subtitle: "<br>A DVS presentation"
+author: "John Little"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "duke.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+exclude: true
+class: center, middle
+background-image:  url(http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+???
+
+Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+
+---
+## This Template
+
+Combines
+
+- Xaringan slide library ([github](https://github.com/yihui/xaringan) | [vingette](https://github.com/yihui/xaringan))
+
+- [Duke University Color Palette](https://styleguide.duke.edu/color-palette/)
+
+## Clone Me
+
+at
+
+- https://github.com/libjohn/slide-template-dukeu
+
+---
+## Two Column
+
+.pull-left[
+- TAGS - https://tags.hawksey.info/
+
+- Splunk - [Academic Program](https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html)
+
+    - [Academic Licencse Application](https://www.splunk.com/en_us/about-us/splunk-pledge/academic-license-application.html)
+]
+
+.pull-right[
+- foo
+
+- foo
+
+- foo
+
+- f00
+]
+
+---
+
+## Next Steps...
+
+### Text Analysis
+
+- Voyant - Text Analysis
+- Gephi - Network Graph Analysis
+- Lib Guides
+
+    - http://guides.library.duke.edu/text_analysis
+    - http://guides.library.duke.edu/digital_humanities 
+    
+- R and it's many packages
+
+---
+class: inverse
+
+## inverse
+
+### h3
+
+other text like now is the time, dude
+
+---
+class: softblue
+
+## softblue
+
+because now is the time for all good people to rock
+
+- one
+
+- [Google](http://google.com)
+
+- three
+
+---
+class: orange
+
+## orange
+
+because now is the time for all good people to rock
+
+- one
+
+- [Google](http://google.com)
+
+- three
+
+---
+## Two Column
+
+.pull-left[
+- TAGS - https://tags.hawksey.info/
+
+- Splunk - [Academic Program](https://www.splunk.com/en_us/solutions/industries/higher-education/academic-licenses.html)
+
+    - [Academic Licencse Application](https://www.splunk.com/en_us/about-us/splunk-pledge/academic-license-application.html)
+]
+
+.pull-right[
+- foo
+
+- foo
+
+- foo
+
+- f00
+]

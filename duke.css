@@ -1,0 +1,41 @@
+a, a > code {
+  color: rgb(161,183,13);
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  color: #0736A4;
+}
+ 
+.orange {
+	background-color: #F09905;
+}
+
+.orange a, .orange a > code {
+	color: rgb(6,128,205);
+	text-decoration: none;
+}
+
+.orange h1, .orange h2, .orange h3 {
+	  color: #001A57;
+}
+
+.softblue {
+  background-color: #339999;
+  color: #FFD960;
+}
+.softblue h1, .softblue h2, .softblue h3 {
+  color: #001A57;
+  line-height: 0.8em;
+  text-shadow: 0 0 20px #728302;
+}
+
+.inverse {
+  background-color: #F09905;
+  color: #0736A4;
+  text-shadow: 0 0 20px #728302;
+}
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #001A57;
+  line-height: 0.8em;
+}
