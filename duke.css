@@ -35,7 +35,42 @@ h1, h2, h3 {
   color: #0736A4;
   text-shadow: 0 0 20px #728302;
 }
+
 .inverse h1, .inverse h2, .inverse h3 {
   color: #001A57;
   line-height: 0.8em;
+}
+
+.h2orange h2{
+  color: #F09905;
+}
+
+.left-column {
+  color: #000;
+  width: 45%;
+/*  height: 50%; */
+  float: left;
+  padding-top: 8em;
+}
+
+.left-column h2 {
+  color: #F09905;
+}
+
+.right-column {
+  background-color: rgb(51,153,153);
+  background-color: rgba(51,153,153,.75);
+  /* color: #FFD960; */
+  width: 45%;
+  float: right;
+  padding-top: 1em;
+}
+
+.imageTop {
+  vertical-align: top;
+}
+
+h4 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
 }
