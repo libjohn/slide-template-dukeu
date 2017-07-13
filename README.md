@@ -1,6 +1,6 @@
 # README
 
-A slide template with the the Duke University Color Palatte
+Based on the [Xaringan](https://slides.yihui.name/xaringan/#1) R-Markdown slide package, This is a slide template to integrate the Duke University Color Palatte
 
 ## Combines
 
