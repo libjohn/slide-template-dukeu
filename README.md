@@ -33,4 +33,21 @@ My slide-deck template integrates the Duke University Color palette into the Xar
     
     
 I need to make this a package.  I'll do it eventually.  Till then feel free to collaborate (fork, improve, and submit pull-request) 
-    
+   
+   
+## What does it look like?
+
+- https://www.johnlittle.info/project/custom/slide-template/duke_slide_template.html
+
+## Stray Thoughts
+
+- Trade off: loose a bit of graphical wysiwig for vastly improved reproducibility
+
+- Composed in R-Markdown
+
+- The more you know about CSS the more you can fine-tune the cosmetic layer
+
+- Any opportunity to not use PPT is a good opportunity
+
+
+
