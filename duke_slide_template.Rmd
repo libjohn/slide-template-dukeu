@@ -1,5 +1,5 @@
 ---
-title: "Duke Color Palatte for Xarnigan Slides"
+title: "Duke Color Palette for Xaringan Slides"
 subtitle: "Template for<br>A DVS presentation"
 author: "John Little"
 date: "`r Sys.Date()`"
@@ -34,7 +34,7 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 
 Combines
 
-- Xaringan slide library ([github](https://github.com/yihui/xaringan) | [vingette](https://slides.yihui.name/xaringan/))
+- Xaringan slide library ([github](https://github.com/yihui/xaringan) | [vignette](https://slides.yihui.name/xaringan/))
 
 - [Duke University Color Palette](https://styleguide.duke.edu/color-palette/)
 
